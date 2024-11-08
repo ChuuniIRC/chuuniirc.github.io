@@ -16,6 +16,16 @@ federated networks.  Additionally, by connecting to multiple instances, should
 an instance shut down, you don't lose your access to the network, and it's all
 seamless!
 
+# Inspired by Communities
+
+Communities have multiple modes of interaction, ranging from an individual
+participating in multiple, possibly overlapping, communities, up to multiple
+communities and even groups of communities getting together as a whole.
+
+If community-community interactions are represented by federation, then
+individual-community interactions are represented by multihoming, and ChuuniIRC
+supports both.
+
 ## Decentralized by Design
 
 Unlike, say, Mastodon, ChuuniIRC is structured in such a way that the flagship
