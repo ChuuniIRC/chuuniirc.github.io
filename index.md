@@ -16,7 +16,7 @@ federated networks.  Additionally, by connecting to multiple instances, should
 an instance shut down, you don't lose your access to the network, and it's all
 seamless!
 
-# Inspired by Communities
+## Inspired by Communities
 
 Communities have multiple modes of interaction, ranging from an individual
 participating in multiple, possibly overlapping, communities, up to multiple
