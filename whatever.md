@@ -6,6 +6,12 @@
 - ppl use multiple social media today, why not improve the experience
 - (need more ideas to talk about)
 
+## ppl use multiple social media today, why not improve the experience
+
+for example, someome might use discord, irc, mastodon, xmpp, etc. (personally,
+we use xmpp via bitlbee, which makes it look like another irc network as opposed
+to yet another desktop/mobile app.)
+
 ## instances shut down
 
 so many folks have talked about mastodon instances shutting down. folks have
@@ -31,3 +37,10 @@ based on: https://alice.bsky.sh/post/3laega7icmi2q
 
 sure, if you have 10 TB to spare... and probably a few other issues.
 
+# what do we actually want from social media
+
+- resilience to instance shutdowns
+- being able to host it yourself
+- having more control over your social graph (instead of your admin being in
+    control)
+- (more stuff...?)
